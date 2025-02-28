@@ -1,14 +1,14 @@
-# 🚀 Snapchat Mods
+# Snapchat Mods
 
-## 📌 Overview
+## Overview
 This repository contains **modifications and tweaks** for Snapchat, designed to enhance the user experience by adding new features or bypassing certain restrictions. **Use these mods at your own risk**, as modifying official applications may violate Snapchat's terms of service.
 
-## ✨ Features
+## Features
 ✅ Custom tweaks for Snapchat  
 ✅ Additional functionalities not available in the official app  
 ✅ Enhanced user experience with various modifications  
 
-## 📥 Installation
+## Installation
 Follow the steps below to install and use these mods:
 
 1. **Download the Mod**: Clone the repository or download the required files manually.
@@ -17,16 +17,25 @@ Follow the steps below to install and use these mods:
 3. **Install the Mod**: Follow specific instructions provided in the respective mod folder.
 4. **Enjoy**: Open Snapchat and enjoy the new features.
 
-## ⚠️ Disclaimer
+## Disclaimer
 ⚠️ These modifications are **not affiliated with, endorsed by, or supported by** Snapchat.  
 ⚠️ Using mods **may lead to account suspension or bans**.  
 ⚠️ **Use at your own risk**.  
 
-## 💡 Contributing
+## Contributing
 If you have any improvements or additional features to suggest, feel free to **fork** the repository and **submit a pull request**.
 
 🔗 [Fork the Repository](https://github.com/r8a5/snapchat-mods/fork)  
-🔗 [Submit a Pull Request](https://github.com/r8a5/snapchat-mods/pulls)  
+🔗 [Submit a Pull Request](https://github.com/r8a5/snapchat-mods/pulls)
+
+## Web Console Ran:
+🔗 [Image Blur](https://github.com/r8a5/snapchat-mods/blob/main/code/web/console/image-blur.js)  
+🔗 [Image Saver](https://github.com/r8a5/snapchat-mods/blob/main/code/web/console/image-saver.js)  
+
+## Bookmark Ran:
+🔗 [Image Blur](https://github.com/r8a5/snapchat-mods/blob/main/code/web/bookmark/image-blur.js)  
+🔗 [Image Saver](https://github.com/r8a5/snapchat-mods/blob/main/code/web/bookmark/image-saver.js)  
+
 
 ## INFO
 For any inquiries or issues, **[open an issue](https://github.com/r8a5/snapchat-mods/issues)** on GitHub or reach out via the provided contact details.
